@@ -7,3 +7,6 @@ git init
 git status
 #add to stagging state
 git add {file_name} / or git add . #to add all the files
+
+#what if we use python to implemt it to django later
+
