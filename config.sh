@@ -10,3 +10,6 @@ git add {file_name} / or git add . #to add all the files
 
 #what if we use python to implemt it to django later
 
+#checkout commit check the commint
+#revert commit back in time
+#reset commit delete commit and reset
