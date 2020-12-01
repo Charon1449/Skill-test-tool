@@ -1,0 +1,6 @@
+projectKey=skill-test-tool
+serverUrl=http://localhost:9000
+serverVersion=8.5.1.38104
+dashboardUrl=http://localhost:9000/dashboard?id=skill-test-tool
+ceTaskId=AXYaSI8lYVnASoz2KRQ9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXYaSI8lYVnASoz2KRQ9
